@@ -1,4 +1,4 @@
 hello!
 hello world!
-hi baby
-hey human
+hi 
+hey 
